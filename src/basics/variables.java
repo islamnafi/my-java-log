@@ -23,7 +23,7 @@ public class variables {
         m = sc.nextInt();
         n = sc.nextInt();
 
-        System.out.printf("Here are the two stupid integers that you passed in - %d %d", m, n);
+        System.out.printf("Here are the two stupid integers that you passed in - %d and %d", m, n);
 
     }
 
